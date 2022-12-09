@@ -1,7 +1,7 @@
 const TOKEN_PRICE = "80000000000000000"; //0.08 ETH
 const TOKEN_NAME = "DWOLF";
 const TOKEN_SYMBOL = "DW";
-const INITIAL_SUPPLY = "1"; //1000 TOKENS
+const INITIAL_SUPPLY = "1000"; //1000 TOKENS
 
 module.exports = {
   TOKEN_NAME,
